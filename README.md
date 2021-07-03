@@ -1,6 +1,7 @@
 # Sirene
 Reproduction de différent son de sirène avec un arduino et un buzzer passif
 ## Fréquence
+```c
 u = cycles/min
 +---------+--------+ +---------+-------------+
 |  Type   | POLICE | |  Type   | GENDARMERIE |
@@ -26,3 +27,4 @@ u = cycles/min
 |  Ton 4  | noTone 1.5s |
 | Cadence |   50-60u    |
 +---------+-------------+
+```
